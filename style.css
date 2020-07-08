@@ -8,3 +8,20 @@ button{
 strong{
     color: #21B573;
 }
+.card-img-top{
+    height: 85px;
+    width: 66px;
+}
+.card{
+    align-items: center;
+}
+h5{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+.bold-text{
+    text-align: center;
+    color:  #413960;
+}

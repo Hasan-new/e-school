@@ -21,7 +21,20 @@ h5{
 .card-text{
     text-align: center;
 }
+
 .bold-text{
     text-align: center;
-    color:  #413960;
+}
+
+.card-img-mid{
+    height: 200px;
+    width: 345px;
+}
+.icon1{
+    height: 24px;
+    width: 24px;
+}
+.icon2{
+    height: 24px;
+    width: 24px;
 }

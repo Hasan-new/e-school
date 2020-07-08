@@ -1,4 +1,10 @@
 button{
     border-radius: 20px;
-    background-color: red;
+    background-color: #21B573;
+}
+.container h6{
+    color: #21B573;
+}
+strong{
+    color: #21B573;
 }
